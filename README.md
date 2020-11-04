@@ -1,4 +1,4 @@
-# 0x00. AirBnB clone - The console
+## AirBnB clone - The console
 
 
 This project aims to implement a copy of the AirBnb website on our server also is very important because after o this project depend another projects with HTML, css, database storage and another more things.
@@ -15,7 +15,7 @@ This project aims to implement a copy of the AirBnb website on our server also i
    * Delete an object  
 
 ## How to use?
-   * Clone the repository below "https://github.com/jsgalvish/AirBnB_clone.git"  
+   * Clone the repository below "https://github.com/Lucho-ai"  
    * Access the AirBnb_clone folder  
    * Run it interactively and non-interactively  
 
@@ -33,5 +33,4 @@ id don't apply to create command
 ```help <command>```
 
 #AUTHORS
-   * [Miguel Angel Salazar](https://github.com/jsgalvish)  
-   * [Juan Sebastian Galvis](https://github.com/zelda096)  
+   * [LUIS ALEJANDRO MARIN](https://github.com/Lucho-ai)
